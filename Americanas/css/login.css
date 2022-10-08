@@ -1,0 +1,15 @@
+#simbolo{
+    background-color: white;
+}
+
+#login, p, label {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.caixa{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
